@@ -1,14 +1,14 @@
 {
   "name": "PestControl Pro",
   "short_name": "PestControl",
-  "description": "Control de plagas certificado en Valparaíso y Viña del Mar. Fumigación, desratización y desinsectación profesional.",
-  "start_url": ".",
+  "description": "Control de plagas certificado y paisajismo en Valparaíso y Viña del Mar. Fumigación, jardinería y diseño permacultural.",
+  "start_url": "/PestControlPro-Web/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#10b981",
   "icons": [
     {
-      "src": "https://images.unsplash.com/photo-1584622781564-1d9876a3e830?auto=format&fit=crop&q=80&w=192",
+      "src": "https://images.unsplash.com/photo-1592150621744-aca64f48394a?auto=format&fit=crop&q=80&w=192",
       "sizes": "192x192",
       "type": "image/png"
     }

@@ -3,7 +3,7 @@ import { ServicePack, Product, NavItem } from './types';
 
 export const WHATSAPP_NUMBER = '56965191887';
 export const WHATSAPP_BASE_URL = 'https://wa.me/';
-export const SITE_URL = 'https://tu-dominio-gratis.netlify.app'; // Cambia esto al dominio final
+export const SITE_URL = 'https://raulifdigital.github.io/PestControlPro-Web';
 
 export const NAV_ITEMS: NavItem[] = [];
 
